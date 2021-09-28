@@ -37,9 +37,9 @@ print("Creating the email")
 
 SERVER = "smtp.gmail.com" #the smtp server
 PORT = 587
-FROM = "luccamachado16@gmail.com"
-TO = "saintangel961@gmail.com"
-PASS = "jheteMEX"
+FROM = ""
+TO = ""
+PASS = ""
 
 
 
